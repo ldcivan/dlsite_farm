@@ -1,6 +1,9 @@
-# dlsite_farm
-基于python的dlfarm自动签到程序
+# DLFarm已关闭，本项目已失效
+# DLFarm has been closed, this repo has been out of date
 
+# dlsite_farm
+
+基于python的dlfarm自动签到程序
 DLfarm auto check in script
 
 ## 用途 Use to...
